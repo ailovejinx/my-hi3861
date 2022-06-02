@@ -1,7 +1,9 @@
 ## 如何使用
 
-1. app文件夹替换applications/sample/wifi-iot/app文件夹
-2. onenet文件夹和pahomqtt文件夹放在//third_party下
+1. app文件夹替换applications/sample/wifi-iot/app文件夹。
+2. onenet文件夹和pahomqtt文件夹放在//third_party下。
+2. MyOnenet是对应的HarmonyOS APP代码。
+2. 所有代码需要填Api-key、devideID、wifi账号密码的地方记得填写。
 
 ## 注意
 
